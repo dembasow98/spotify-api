@@ -1,7 +1,7 @@
-hello! here's a little about me:
+<h1 align="center">
+  
+      OUTPUT
 
-<h1>
-  i really like music :headphones:
 </h1>
 
 <!-- Nothing weird to see here -->
@@ -18,31 +18,7 @@ hello! here's a little about me:
  
 <p align="center">
   <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
+  <i>A huge thanks to <a href="https://github.com/andyruwruw">Andrew Young</a> for delivering such a valuable content for free.</i>
 </p>
 
 <p></p>
-
-<h1>
-  i was a frontend intern at chess.com ♟️
-</h1>
-
-<p align="center">
-  <a href="https://www.chess.com/member/andyruwruw">
-    <img src="https://readme.andyruwruw.com/api/chess-games">
-  </a>
-</p>
-
-<p align="center">
-  <i>luckily being good at chess wasn't a pre-req to the job</i>
-</p>
-
-<p></p>
-
-<h1>
-  i'm a vue.js fanboy, but i do some other stuff too :hammer:
-</h1>
-
-<p align="center">
-  <img src="https://readme.andyruwruw.com/api/skills">
-</p>
