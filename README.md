@@ -1,7 +1,7 @@
-hello! here's a little about me:
+<h1 align="center">
+  
+      OUTPUT
 
-<h1>
-  i really like music :headphones:
 </h1>
 
 <!-- Nothing weird to see here -->
@@ -22,27 +22,3 @@ hello! here's a little about me:
 </p>
 
 <p></p>
-
-<h1>
-  i was a frontend intern at chess.com ♟️
-</h1>
-
-<p align="center">
-  <a href="https://www.chess.com/member/andyruwruw">
-    <img src="https://readme.andyruwruw.com/api/chess-games">
-  </a>
-</p>
-
-<p align="center">
-  <i>luckily being good at chess wasn't a pre-req to the job</i>
-</p>
-
-<p></p>
-
-<h1>
-  i'm a vue.js fanboy, but i do some other stuff too :hammer:
-</h1>
-
-<p align="center">
-  <img src="https://readme.andyruwruw.com/api/skills">
-</p>
