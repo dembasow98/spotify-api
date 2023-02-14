@@ -18,7 +18,7 @@
  
 <p align="center">
   <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
+  <i>A huge thanks to <a href="https://github.com/andyruwruw">Andrew Young</a> for delivering such a valuable content for free.</i>
 </p>
 
 <p></p>
